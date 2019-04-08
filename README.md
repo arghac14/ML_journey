@@ -22,7 +22,8 @@
     
   * Decision Tree-
     * [Decision Tree(sklearn)](https://github.com/arghac14/ML_journey/blob/master/ML/Classification/Decision%20Tree/Using%20library/DecisionTree.ipynb)
-    
+  * Random Forest-
+    * [Random Forest(sklearn)](https://github.com/arghac14/ML_journey/blob/master/ML/Classification/Random%20Forest/Using%20library/RandomForest.ipynb)
     
 ### 3. Clustering:
   * Kmeans-
