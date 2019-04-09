@@ -2,6 +2,7 @@
 #### [Numpy](https://github.com/arghac14/ML_journey/tree/master/Data%20Science/Numpy)
 #### [Pandas](https://github.com/arghac14/ML_journey/tree/master/Data%20Science/Pandas)
 #### [Matplotlib](https://github.com/arghac14/ML_journey/tree/master/Data%20Science/Matplotlib)
+#### [Seaborn](https://github.com/arghac14/ML_journey/tree/master/Data%20Science/Seaborn)
 
 ## Machine Learning Algorithms:
 ### 1. Regression:
