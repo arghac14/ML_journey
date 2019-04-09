@@ -26,6 +26,8 @@
     * [Random Forest(sklearn)](https://github.com/arghac14/ML_journey/blob/master/ML/Classification/Random%20Forest/Using%20library/RandomForest.ipynb)
   * Naive Bayes-
     * [Naive Bayes(sklearn)](https://github.com/arghac14/ML_journey/blob/master/ML/Classification/Naive_Bayes/Using%20library/Naive_Bayes.ipynb)
+  * Support Vector Machine(SVM)-
+    * [SVM(sklearn)](https://github.com/arghac14/ML_journey/blob/master/ML/Classification/Support%20Vector%20Machine(SVM)/Using%20library/SVM.ipynb)
     
 ### 3. Clustering:
   * Kmeans-
