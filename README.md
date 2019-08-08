@@ -30,7 +30,7 @@
   * Support Vector Machine(SVM)-
     * [SVM(sklearn)](https://github.com/arghac14/ML_journey/blob/master/ML/Classification/Support%20Vector%20Machine(SVM)/Using%20library/SVM.ipynb)
   * Ensemble Learning
-    * [Voting classifier, Bagging, OOB evaluation](https://github.com/arghac14/ML_journey/blob/master/ML/Classification/Ensemble_Learning.ipynb)
+    * [Voting classifier, Bagging, OOB evaluation(sklearn)](https://github.com/arghac14/ML_journey/blob/master/ML/Classification/Ensemble_Learning.ipynb)
 ### 3. Clustering:
   * Kmeans-
     * [Kmeans(from scratch)](https://github.com/arghac14/ML_journey/blob/master/ML/Clustering/K-means/From%20scratch/K-means(scratch)%20(6).ipynb)
